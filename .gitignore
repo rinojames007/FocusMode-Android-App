@@ -1,0 +1,29 @@
+# IDE files and directories
+.idea/
+.gradle/
+local.properties
+.DS_Store
+
+# Build files
+build/
+app/build/
+captures/
+*.apk
+*.aab
+*.ap_
+*.apks
+*.dex
+*.jar
+
+# Dependency locking files
+*.lock
+
+# Keystore files
+*.jks
+*.keystore
+
+# Proguard files (usually generated)
+proguard/
+
+# Caches
+.kotlin/
